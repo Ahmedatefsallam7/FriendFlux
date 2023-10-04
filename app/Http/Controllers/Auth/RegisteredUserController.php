@@ -78,7 +78,7 @@ class RegisteredUserController extends Controller
         // return redirect('/');
 
         if ($request->email) {
-            $user->email->sendEmailVerificationNotification();
+            auth()->user()->sendEmailVerificationNotification();
             return redirect(RouteServiceProvider::VERIFY_EMAIL);
         } else {
 
