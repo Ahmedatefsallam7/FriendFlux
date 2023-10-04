@@ -18,7 +18,7 @@ Follow these steps to set up NexaNet on your local machine:
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/Ahmedatefsallam7/NexaNet
+   git clone https://github.com/Ahmedatefsallam7/NexaNet.git
    
 2. Navigate to the project directory.
     cd nexanet
