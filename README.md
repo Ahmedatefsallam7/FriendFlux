@@ -1,7 +1,7 @@
-# NexaNet
+# FriendFlux
 
 ## Description
-NexaNet is a feature-rich social media platform built with Laravel. Connect with friends, send/receive friend requests, and explore suggested people, pages, and groups. Stay updated with a robust notification system, and engage in real-time chat with other users. NexaNet supports registration via email or mobile number, with an OTP verification process for mobile registration. The project utilizes Laravel Livewire for dynamic UI, Chatify for real-time chat functionality, and Twilio SDK for mobile number verification.
+FriendFlux is a feature-rich social media platform built with Laravel. Connect with friends, send and receive friend requests, and explore suggested people, pages, and groups. Stay updated with a robust notification system, and engage in real-time chat with other users. FriendFlux supports registration via email or mobile number, with an OTP verification process for mobile registration. The project utilizes Laravel Livewire for dynamic UI, Chatify for real-time chat functionality, and Twilio SDK for mobile number verification.
 
 ## Features
 - User registration and authentication (Email and Mobile)
@@ -14,14 +14,14 @@ NexaNet is a feature-rich social media platform built with Laravel. Connect with
 - ...and much more!
 
 ## Installation
-Follow these steps to set up NexaNet on your local machine:
+Follow these steps to set up FriendFlux on your local machine:
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/Ahmedatefsallam7/NexaNet.git
+   git clone https://github.com/Ahmedatefsallam7/FriendFlux.git
    
 2. Navigate to the project directory.
-    cd nexanet
+    cd FriendFlux
 
 3. Install dependencies.
     composer install
@@ -38,10 +38,10 @@ Follow these steps to set up NexaNet on your local machine:
 7. Start the development server.
     php artisan serve
    
-Access NexaNet at http://localhost:8000 in your web browser.
+Access FriendFlux at http://localhost:8000 in your web browser.
 
 Usage
-1. Register on NexaNet using your email or mobile number.
+1. Register on FriendFlux using your email or mobile number.
 2. Verify your mobile number using the OTP code.
 3. Customize your profile with a profile picture and bio.
 4. Connect with friends by sending or accepting friend requests.
