@@ -19,6 +19,10 @@ Follow these steps to set up FriendFlux on your local machine:
 1. Clone the repository.
    ```bash
    git clone https://github.com/Ahmedatefsallam7/FriendFlux.git
+
+https://github.com/Ahmedatefsallam7/FriendFlux/assets/111317503/d8f19bca-9c3a-46ca-9890-7ae4a7ae9a94
+
+
    
 2. Navigate to the project directory.
     cd FriendFlux
@@ -49,3 +53,7 @@ Usage
 6. Stay informed with real-time notifications.
 7. Engage in real-time chat with other users using Chatify. 
    
+
+
+https://github.com/Ahmedatefsallam7/FriendFlux/assets/111317503/1842550c-93a0-4bbc-9001-1ca392b7128f
+
